@@ -1,14 +1,14 @@
+## [HOME](https://github.com/Char-Hunt/Char-Hunt)
 # Forums
-## Communities and Forums across the web.
-
+### Communities and Forums across the web.
 
 - [ArsTechnica](https://arstechnica.com/civis/)
 - [Spiceworks](https://community.spiceworks.com/)
 - [Stack Exchange](https://stackexchange.com/sites#technology)
  
 #
-## Cybersecurity experts to follow online. 
-My curated pics highlighting trustworthy and trending experts on cybersecurity.
+### Cybersecurity experts to follow online. 
+## My curated pics highlighting trustworthy and trending experts on cybersecurity.
 
 1. Bob Sullivan - Known for his expertise in cybersecurity, consumer protection, and personal finance, [Bob Sullivan](https://bobsullivan.net/) is an author and investigative journalist with an extensive career covering many topics, and featured in prominent publications discussing online scams, identity theft and financial fraud.
 
