@@ -1,5 +1,5 @@
 # Forums
-### Communities and Forums across the web.
+Communities and Forums across the web.
 
 
 - [ArsTechnica](https://arstechnica.com/civis/)
