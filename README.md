@@ -1,11 +1,11 @@
-## [HOME](https://github.com/Char-Hunt/Char-Hunt)
-## Forums
-#
+### [HOME](https://github.com/Char-Hunt/Char-Hunt)
+
 ### Communities and Forums across the web.
 
 - [ArsTechnica](https://arstechnica.com/civis/)
 - [Spiceworks](https://community.spiceworks.com/)
 - [Stack Exchange](https://stackexchange.com/sites#technology)
+- [TechCrunch](https://techcrunch.com/)
  
 #
 ### Cybersecurity experts to follow online. 
