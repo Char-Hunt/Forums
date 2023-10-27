@@ -17,7 +17,7 @@
 
 3. Chuck Brooks - As a globally recognized authority [Chuck Brooks](https://www.linkedin.com/in/chuckbrooks/) holds a varied background in government, private industry and academia. He gives a multi-facted perspective on cybersecurity challenges.
 
-4. Bruce Schneier - Using his extensive knowledge and expertise [Bruce Schneier](https://www.schneier.com/) advocates for good security techniques and practices. He is a renowned computer security expert, speaker, and cryptographer striving to advance deeper understandings of cyber vulnerabilities and encrption.
+4. Bruce Schneier - Using his extensive knowledge and expertise [Bruce Schneier](https://www.schneier.com/) advocates for good security techniques and practices. He is a renowned computer security expert, speaker, and cryptographer striving to advance deeper understandings of cyber vulnerabilities and encryption.
 
 5. Shira Rubinoff - Shira Rubinoff is a trusted adviser, public speaker and thought leader for women in technology. She shares her insights on cybersecurity across the cloud, data, artificial intelligence, blockchain, and IoT. [Shira Rubinoff](https://www.youtube.com/@ShiraRubinoffTV/about) is a recognized cybersecurity executive, cybersecurity & blockchain advisor, global keynote speaker and influencer, working to promote security best practices for individuals as well as organizations.
 
