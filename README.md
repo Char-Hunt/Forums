@@ -10,7 +10,7 @@
 
 #
 ## Cyber Threat Maps
-The Fortinet Thread Map gives real-time visualizations: Attack intensity and frequency
+The Fortinet Threat Map gives real-time visualizations: Attack intensity and frequency
 [Fortinet Threat Map](https://threatmap.fortiguard.com/)
 
 Spamhaus researches botnet and IP associated with servers used to control malware
