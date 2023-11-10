@@ -10,14 +10,16 @@
 
 #
 ## Cyber Threat Maps
-The Fortinet Threat Map gives real-time visualizations of attack intensity and frequency
+**THE FORTINET THREAT MAP** gives real-time visualizations of attack intensity and frequency
 [Fortinet Threat Map](https://threatmap.fortiguard.com/)
 
-Spamhaus researches botnet and IP associated with servers used to control malware
+**SPAMHAUS** researches botnet and IP associated with servers used to control malware
 [Spamhaus Live Botnet Threats Worldwide](https://www.spamhaus.com/threat-map/)
 
-Biddefender provides a comprehensive and instantaneous perspective on cyber threats across the globe
+**BITDEFENDER** provides a comprehensive and instantaneous perspective on cyber threats across the globe
 [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/)
+
+**FIREEYE** provides closed source threat intelligence in real-time [...](https://threatmap.checkpoint.com/)
 #
 ## My curated pics highlighting trustworthy and trending experts on cybersecurity.
 
