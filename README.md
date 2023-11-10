@@ -19,7 +19,7 @@
 **BITDEFENDER** provides a comprehensive and instantaneous perspective on cyber threats across the globe
 [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/)
 
-**FIREEYE** provides closed source threat intelligence in real-time [...](https://threatmap.checkpoint.com/)
+**FIREEYE** provides closed source threat intelligence in real-time [Live Cyber Threat Map](https://threatmap.checkpoint.com/)
 #
 ## My curated pics highlighting trustworthy and trending experts on cybersecurity.
 
