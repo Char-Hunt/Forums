@@ -1,12 +1,14 @@
 ### [HOME](https://github.com/Char-Hunt/Char-Hunt)
 
-### Communities and Forums across the web.
+### Communities, Training, and Forums across the web.
 
 - [ArsTechnica](https://arstechnica.com/civis/)
 - [Spiceworks](https://community.spiceworks.com/)
 - [Stack Exchange](https://stackexchange.com/sites#technology)
 - [TechCrunch](https://techcrunch.com/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/)
+- [Amazon Web Services Skill Builder](https://explore.skillbuilder.aws/learn)
+- [Google Cloud](https://cloud.google.com/learn/training/)
 
 #
 ## Cyber Threat Maps
