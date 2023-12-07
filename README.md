@@ -6,9 +6,11 @@
 - [Spiceworks](https://community.spiceworks.com/)
 - [Stack Exchange](https://stackexchange.com/sites#technology)
 - [TechCrunch](https://techcrunch.com/)
-- [Microsoft Learn](https://learn.microsoft.com/en-us/)
-- [Amazon Web Services Skill Builder](https://explore.skillbuilder.aws/learn)
-- [Google Cloud](https://cloud.google.com/learn/training/)
+- [TryHackMe](https://tryhackme.com/)
+- [Let's Defend](https://letsdefend.io/)
+- [Microsoft Learn Skills Challenge - Cloud](https://learn.microsoft.com/en-us/)
+- [Amazon Web Services Skills Builder - Cloud](https://explore.skillbuilder.aws/learn)
+- [Google Cloud Platform](https://cloud.google.com/learn/training/)
 
 #
 ## Cyber Threat Maps
