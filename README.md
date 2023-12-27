@@ -11,9 +11,7 @@
 - [Microsoft Learn Skills Challenge - Cloud](https://learn.microsoft.com/en-us/)
 - [Amazon Web Services Skills Builder - Cloud](https://explore.skillbuilder.aws/learn)
 - [Google Cloud Platform](https://cloud.google.com/learn/training/)
-
-- [Fortinet Blog - CISO's Need To Take A Holistic Approach](https://www.fortinet.com/blog/ciso-collective/cisos-need-to-take-a-holistic-approach-to-risk-management)
-- 
+- [Fortinet Blog - CISO's Need To Take A Holistic Approach](https://www.fortinet.com/blog/ciso-collective/cisos-need-to-take-a-holistic-approach-to-risk-management) 
 
 #
 ## Cyber Threat Maps
