@@ -1,4 +1,4 @@
-### [HOME](https://github.com/Char-Hunt/Char-Hunt)
+### [HOME](https://github.com/Char-Hunt)
 
 ### Communities, Training, and Forums across the web.
 
