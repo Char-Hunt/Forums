@@ -5,17 +5,15 @@
 - [ArsTechnica](https://arstechnica.com/civis/)
 - [Spiceworks](https://community.spiceworks.com/)
 - [Let's Defend](https://letsdefend.io/)
+- [Stack Exchange](https://stackexchange.com/sites#technology)
 - [Treadmill](https://solo.to/treadm1ll)
 - [TryHackMe](https://tryhackme.com/)
-- [Stack Exchange](https://stackexchange.com/sites#technology)
 - [Google Cloud Platform](https://cloud.google.com/learn/training/)
-- [I Heart AI Communitty]()
+- [I Heart AI Community]()
 - [Microsoft Learn Skills Challenge - Cloud](https://learn.microsoft.com/en-us/)
 - [TechChurn](https://techchurn.org)
 - [Amazon Web Services Skills Builder - Cloud](https://explore.skillbuilder.aws/learn)
 - [TechCrunch](https://techcrunch.com/)
-
-
 - [Fortinet Blog - CISO's Need To Take A Holistic Approach](https://www.fortinet.com/blog/ciso-collective/cisos-need-to-take-a-holistic-approach-to-risk-management) 
 
 #
