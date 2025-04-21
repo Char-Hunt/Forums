@@ -3,6 +3,7 @@
 ### Communities, Training, and Forums across the web.
 
 - [ArsTechnica](https://arstechnica.com/civis/)
+- [Future of Life Institue] (https://futureoflife.org/)
 - [Spiceworks](https://community.spiceworks.com/)
 - [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 - [Let's Defend](https://letsdefend.io/)
