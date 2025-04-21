@@ -6,6 +6,7 @@
 - [Future of Life Institute](https://futureoflife.org/)
 - [Spiceworks](https://community.spiceworks.com/)
 - [Cloud Security Alliance](https://cloudsecurityalliance.org/)
+- [Center for AI Safety](https://www.safe.ai/)
 - [Let's Defend](https://letsdefend.io/)
 - [Stack Exchange](https://stackexchange.com/sites#technology)
 - [Treadmill](https://solo.to/treadm1ll)
