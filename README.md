@@ -12,7 +12,7 @@
 - [Treadmill](https://solo.to/treadm1ll)
 - [TryHackMe](https://tryhackme.com/)
 - [Google Cloud Platform](https://cloud.google.com/learn/training/)
-- [AI Leadership Institute]()
+- [AI Leadership Institute](https://aileadershipinstitute.com/)
 - [Microsoft Learn Skills Challenge - Cloud](https://learn.microsoft.com/en-us/)
 - [TechChurn](https://techchurn.org)
 - [Amazon Web Services Skills Builder - Cloud](https://explore.skillbuilder.aws/learn)
