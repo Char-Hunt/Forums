@@ -14,7 +14,7 @@
 - [Let's Defend](https://letsdefend.io/)
 - [Fortinet Blog - CISO's Need To Take A Holistic Approach](https://www.fortinet.com/blog/ciso-collective/cisos-need-to-take-a-holistic-approach-to-risk-management) 
 - [Stack Exchange](https://stackexchange.com/sites#technology)
-- [Treadmill](https://solo.to/treadm1ll)
+- [Treadmill](https://treadm1ll.org/)
 - [TryHackMe](https://tryhackme.com/)
 - [AI Leadership Institute](https://aileadershipinstitute.com/)
 - [Center for AI and Digital Policy](https://www.caidp.org/)
